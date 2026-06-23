@@ -77,10 +77,12 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0007-reverse-integer](https://github.com/tanushreee1711/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/tanushreee1711/leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/tanushreee1711/leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
