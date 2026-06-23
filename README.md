@@ -57,6 +57,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/tanushreee1711/leetcode/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -75,4 +76,12 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanushreee1711/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanushreee1711/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
