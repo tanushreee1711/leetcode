@@ -76,6 +76,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tanushreee1711/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +99,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
