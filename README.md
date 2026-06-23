@@ -87,6 +87,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0011-container-with-most-water](https://github.com/tanushreee1711/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +104,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
