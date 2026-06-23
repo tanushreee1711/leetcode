@@ -65,4 +65,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/tanushreee1711/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
