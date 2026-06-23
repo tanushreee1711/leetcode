@@ -59,6 +59,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tanushreee1711/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanushreee1711/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
