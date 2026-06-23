@@ -61,12 +61,18 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tanushreee1711/leetcode/tree/master/0007-reverse-integer) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
