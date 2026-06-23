@@ -1,41 +1,52 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/tanushreee1711/leetcode/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/tanushreee1711/leetcode/tree/master/0002-add-two-numbers) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/tanushreee1711/leetcode/tree/master/0002-add-two-numbers) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/tanushreee1711/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/tanushreee1711/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0008-string-to-integer-atoi](https://github.com/tanushreee1711/leetcode/tree/master/0008-string-to-integer-atoi) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/tanushreee1711/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-## Array
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/tanushreee1711/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/tanushreee1711/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/tanushreee1711/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
-<!---LeetCode Topics End-->
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems implemented in Python and C++.
+
+## About
+
+I created this repository to:
+
+* Practice Data Structures and Algorithms
+* Improve problem-solving skills
+* Prepare for coding interviews and technical assessments
+* Track my progress on LeetCode
+
+## Topics Covered
+
+* Arrays
+* Strings
+* Linked Lists
+* Hash Maps
+* Stacks & Queues
+* Trees & Graphs
+* Recursion & Backtracking
+* Dynamic Programming
+* Greedy Algorithms
+* Binary Search
+* Sliding Window
+* Two Pointers
+
+## Sample Problems
+
+| Problem No. | Problem Name                                   | Difficulty |
+| ----------- | ---------------------------------------------- | ---------- |
+| 1           | Two Sum                                        | Easy       |
+| 2           | Add Two Numbers                                | Medium     |
+| 3           | Longest Substring Without Repeating Characters | Medium     |
+| 4           | Median of Two Sorted Arrays                    | Hard       |
+| 8           | String to Integer (atoi)                       | Medium     |
+| 9           | Palindrome Number                              | Easy       |
+
+## Languages Used
+
+* Python
+* C++
+
+## Goal
+
+Solve LeetCode problems consistently and strengthen algorithmic thinking for software engineering interviews and competitive programming.
+
+## LeetCode Profile
+
+(https://leetcode.com/u/tanushree__mukherjee/)
+
