@@ -65,6 +65,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/tanushreee1711/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/tanushreee1711/leetcode/tree/master/0038-count-and-say) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tanushreee1711/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/tanushreee1711/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tanushreee1711/leetcode/tree/master/0050-powx-n) |
 ## Recursion
@@ -97,6 +99,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tanushreee1711/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
