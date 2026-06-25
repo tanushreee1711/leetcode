@@ -67,12 +67,14 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/tanushreee1711/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tanushreee1711/leetcode/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
