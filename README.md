@@ -100,6 +100,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanushreee1711/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,4 +134,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0015-3sum](https://github.com/tanushreee1711/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanushreee1711/leetcode/tree/master/0016-3sum-closest) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
