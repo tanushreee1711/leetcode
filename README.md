@@ -78,6 +78,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
