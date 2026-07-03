@@ -77,6 +77,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0005-longest-palindromic-substring](https://github.com/tanushreee1711/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tanushreee1711/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/tanushreee1711/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Math
@@ -102,6 +103,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/tanushreee1711/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
@@ -143,4 +145,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tanushreee1711/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
