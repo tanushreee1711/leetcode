@@ -62,6 +62,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0016-3sum-closest](https://github.com/tanushreee1711/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/tanushreee1711/leetcode/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0016-3sum-closest](https://github.com/tanushreee1711/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/tanushreee1711/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/tanushreee1711/leetcode/tree/master/0040-combination-sum-ii) |
