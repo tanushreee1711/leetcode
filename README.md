@@ -109,6 +109,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0040-combination-sum-ii](https://github.com/tanushreee1711/leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/tanushreee1711/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/tanushreee1711/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Greedy
@@ -137,6 +138,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/tanushreee1711/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -154,4 +156,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanushreee1711/leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/tanushreee1711/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
