@@ -64,6 +64,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tanushreee1711/leetcode/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/tanushreee1711/leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tanushreee1711/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/tanushreee1711/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Greedy
@@ -156,6 +158,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0015-3sum](https://github.com/tanushreee1711/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanushreee1711/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/tanushreee1711/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0088-merge-sorted-array) |
 ## Union-Find
 |  |
 | ------- |
