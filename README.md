@@ -93,6 +93,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0012-integer-to-roman](https://github.com/tanushreee1711/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tanushreee1711/leetcode/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/tanushreee1711/leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -137,10 +138,12 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/tanushreee1711/leetcode/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/tanushreee1711/leetcode/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/tanushreee1711/leetcode/tree/master/0089-gray-code) |
 ## Binary Search
 |  |
 | ------- |
