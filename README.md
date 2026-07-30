@@ -63,6 +63,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanushreee1711/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tanushreee1711/leetcode/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/tanushreee1711/leetcode/tree/master/0086-partition-list) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanushreee1711/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/tanushreee1711/leetcode/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
