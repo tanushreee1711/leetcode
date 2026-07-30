@@ -74,6 +74,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tanushreee1711/leetcode/tree/master/0038-count-and-say) |
+| [0087-scramble-string](https://github.com/tanushreee1711/leetcode/tree/master/0087-scramble-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/tanushreee1711/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/tanushreee1711/leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Math
 |  |
