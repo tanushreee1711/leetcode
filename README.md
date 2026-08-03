@@ -86,6 +86,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/tanushreee1711/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/tanushreee1711/leetcode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/tanushreee1711/leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Math
@@ -95,6 +96,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0012-integer-to-roman](https://github.com/tanushreee1711/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/tanushreee1711/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tanushreee1711/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/tanushreee1711/leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/tanushreee1711/leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
@@ -182,4 +184,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanushreee1711/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/tanushreee1711/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanushreee1711/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
