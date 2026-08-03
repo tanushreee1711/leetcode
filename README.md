@@ -77,6 +77,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanushreee1711/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tanushreee1711/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tanushreee1711/leetcode/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/tanushreee1711/leetcode/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/tanushreee1711/leetcode/tree/master/0087-scramble-string) |
 ## Dynamic Programming
 |  |
@@ -194,4 +195,8 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanushreee1711/leetcode/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/tanushreee1711/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
