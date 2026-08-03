@@ -88,6 +88,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tanushreee1711/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tanushreee1711/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/tanushreee1711/leetcode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/tanushreee1711/leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/tanushreee1711/leetcode/tree/master/0198-house-robber) |
 ## Math
@@ -124,6 +125,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | [0055-jump-game](https://github.com/tanushreee1711/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tanushreee1711/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/tanushreee1711/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/tanushreee1711/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tanushreee1711/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/tanushreee1711/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/tanushreee1711/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -186,6 +188,7 @@ Solve LeetCode problems consistently and strengthen algorithmic thinking for sof
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanushreee1711/leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/tanushreee1711/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/tanushreee1711/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tanushreee1711/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Combinatorics
 |  |
